@@ -4,3 +4,5 @@ This change is from deelop branch
 Adding this for fetch operation
 
 Check again for merge conflict
+
+Verify merge commit
